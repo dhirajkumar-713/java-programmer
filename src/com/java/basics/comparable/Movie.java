@@ -1,5 +1,7 @@
 /* This Program is created by Dhirajkumar Jaiswal.
- If you have any doubt you can reach me at my Instagram ID: dhirajkumar713*/
+ If you have any doubt you can reach me at my Instagram ID: dhirajkumar713
+ Adding the git ID deatils : dgirajkumar-713
+ */
 package com.java.basics.comparable;
 
 import java.util.ArrayList;
